@@ -2,9 +2,9 @@
 I am Actium (ugman21)<br>
 Owner of [cubesided]<BR>
 
-- 🔭 I’m currently working on ___MiniNT (mint) & Lazarus___
-- 🌱 I’m currently learning ___Win32 API and JSON using CPP___
-- 📫 How to reach me: [___join the minint discord___](https://discord.gg/2xZmGj4UDW)
+- 🔭 I’m currently working on ___Custom RPI5 Laptop / UnixRice (Ubuntu)___
+- 🌱 I’m currently learning ___Ricing a linux distro___
+- 📫 How to reach me: [cgree231@gmail.com](mailto://cgree231@gmail.com)
 - ⚡ Fun fact: ___im shit at coding, dont trust me at all.___
 
 
