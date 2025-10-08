@@ -1,8 +1,8 @@
 #### I am Actium (ugman21)<br>
-Owner of [cubesided]<BR>
+<BR>
 
-- 🔭 I’m currently working on ___cubesided Astrix / OSr1 (debian)___
-- 🌱 I’m currently learning ___how to making a linux distro___
+- 🔭 I’m currently working on ___roblox game (school project)___
+- 🌱 I’m currently learning ___linux distributions___
 - 📫 How to reach me: [cgree231@gmail.com](mailto://cgree231@gmail.com)
 - ⚡ Fun fact: ___im shit at coding, dont trust me at all.___
 
